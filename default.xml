@@ -57,7 +57,7 @@
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="cm" groups="pdk"/>
   <project path="device/generic/mips" name="android_device_generic_mips" remote="cm" groups="pdk"/>
   <project path="device/google/atv" name="android_device_google_atv" remote="cm" groups="device,fugu,broadcom_pdk,generic_fs"/>
-  <project path="device/qcom/common" name="android_device_qcom_common" remote="cm" remote="cm"/>
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="cm"/>
   <project path="external/ahbottomnavigation" name="android_external_ahbottomnavigation" remote="cm"/>
   <project path="external/android-clat" name="android_external_android-clat" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
