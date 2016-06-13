@@ -229,7 +229,7 @@
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/Eleven" name="android_packages_apps_Eleven" remote="cm"/>
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="cm" groups="pdk-fs"/>
-  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="cm" groups="pdk-fs" remote="cm"/>
+  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" groups="pdk-fs"/>
