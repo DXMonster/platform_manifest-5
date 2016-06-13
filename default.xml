@@ -14,7 +14,7 @@
            revision="mm6.0" />
 		   
   <remote name="cypher"
-          fetch="https://github.com/"
+          fetch="https://github.com/CypherOS"
 		  revision="mm6.0" />
 
   <remote  name="cm"
@@ -289,16 +289,16 @@
   <project path="system/vold" name="android_system_vold" remote="cm" groups="pdk"/>
 
   <!-- Cypher custom -->
-  <project path="build" name="CypherOS/build" remote="cypher" >
+  <project path="build" name="build" remote="cypher" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="frameworks/base" name="CypherOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="cypher" />
-  <project path="packages/apps/Settings" name="CypherOS/packages_apps_Settings" groups="pdk-fs" remote="cypher" />
-  <project path="packages/apps/SetupWizard" name="CypherOS/packages_apps_SetupWizard" remote="cypher" />
-  <project path="platform_manifest" name="CypherOS/platform_manifest" remote="cypher" />
-  <project path="system/core" name="CypherOS/system_core" groups="pdk" remote="cypher" />
-  <project path="vendor/cmsdk" name="CypherOS/vendor_cmsdk" remote="cypher" />
-  <project path="vendor/cypher" name="CypherOS/vendor_cypher" remote="cypher" />
+  <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="cypher" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="cypher" />
+  <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="cypher" />
+  <project path="platform_manifest" name="platform_manifest" remote="cypher" />
+  <project path="system/core" name="system_core" groups="pdk" remote="cypher" />
+  <project path="vendor/cmsdk" name="vendor_cmsdk" remote="cypher" />
+  <project path="vendor/cypher" name="vendor_cypher" remote="cypher" />
   <!-- END CYPHEROS -->
   
   <!-- BEGIN AICP -->
