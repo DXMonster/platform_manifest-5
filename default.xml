@@ -9,7 +9,7 @@
            fetch="https://github.com/" />
 
   <remote name="aicp"
-           fetch="https://github.com/"
+           fetch="https://github.com/AICP"
            review="gerrit.aicp-rom.com"
            revision="mm6.0" />
 		   
@@ -304,23 +304,23 @@
   <!-- END CYPHEROS -->
   
   <!-- BEGIN AICP -->
-  <project path="external/android-snackbar" name="AICP/external_android-snackbar" remote="aicp" />
-  <project path="external/DUtils" name="AICP/external_DUtils" remote="aicp" />
-  <project path="external/mksh" name="AICP/external_mksh" groups="pdk" remote="aicp" />
-  <project path="frameworks/opt/cards" name="AICP/frameworks_opt_cards" remote="aicp" />
-  <project path="frameworks/opt/telephony" name="AICP/frameworks_opt_telephony" groups="pdk" remote="aicp" />
-  <project path="packages/apps/DeskClock" name="AICP/packages_apps_DeskClock" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/DUI" name="AICP/packages_apps_DUI" remote="aicp" />
-  <project path="packages/apps/InCallUI" name="AICP/packages_apps_InCallUI" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/LockClock" name="AICP/packages_apps_LockClock" remote="aicp" />
-  <project path="packages/apps/Nfc" name="AICP/packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="aicp" />
-  <project path="packages/apps/OmniSwitch" name="AICP/packages_apps_OmniSwitch" remote="aicp" />
-  <project path="packages/apps/PackageInstaller" name="AICP/packages_apps_PackageInstaller" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/ThemeChooser" name="AICP/packages_apps_ThemeChooser" remote="aicp" />
-  <project path="packages/providers/ThemesProvider" name="AICP/packages_providers_ThemesProvider" remote="aicp" />
-  <project path="packages/services/Telephony" name="AICP/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="packages/services/Telecomm" name="AICP/packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="external/android-snackbar" name="external_android-snackbar" remote="aicp" />
+  <project path="external/DUtils" name="external_DUtils" remote="aicp" />
+  <project path="external/mksh" name="external_mksh" groups="pdk" remote="aicp" />
+  <project path="frameworks/opt/cards" name="frameworks_opt_cards" remote="aicp" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="aicp" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/DUI" name="packages_apps_DUI" remote="aicp" />
+  <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="aicp" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="aicp" />
+  <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="aicp" />
+  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/ThemeChooser" name="packages_apps_ThemeChooser" remote="aicp" />
+  <project path="packages/providers/ThemesProvider" name="packages_providers_ThemesProvider" remote="aicp" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <!-- END AICP -->
 
   <!-- Anti-piracy support -->
