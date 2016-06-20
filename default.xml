@@ -295,6 +295,7 @@
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="cypher" />
   <project path="external/sepolicy" name="external_sepolicy" groups="pdk" remote="cypher" />
   <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="cypher" />
+  <project path="packages/apps/DUI" name="packages_apps_DUI" remote="cypher" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="cypher" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="cypher" />
   <project path="platform_manifest" name="platform_manifest" remote="cypher" />
@@ -311,7 +312,6 @@
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="aicp" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/DUI" name="packages_apps_DUI" remote="aicp" />
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="aicp" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="aicp" />
