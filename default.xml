@@ -73,6 +73,7 @@
   <project path="external/bouncycastle" name="android_external_bouncycastle" remote="cm" groups="pdk"/>
   <project path="external/brctl" name="android_external_brctl" remote="cm"/>
   <project path="external/bzip2" name="android_external_bzip2" remote="cm" groups="pdk"/>
+  <project path="external/cmsdk-api-coverage" name="CyanogenMod/android_external_cmsdk-api-coverage" remote="cm" />
   <project path="external/connectivity" name="android_external_connectivity" remote="cm"/>
   <project path="external/curl" name="android_external_curl" remote="cm"/>
   <project path="external/dhcpcd" name="android_external_dhcpcd" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
@@ -223,7 +224,7 @@
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" remote="cm"/>
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm"/>
-  <project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="cm"/>
+  <!--<project path="packages/apps/CMUpdater" name="android_packages_apps_CMUpdater" remote="cm"/>-->
   <project path="packages/apps/CMWallpapers" name="android_packages_apps_CMWallpapers" remote="cm"/>
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cm" groups="pdk-fs"/>
