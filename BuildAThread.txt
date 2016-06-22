@@ -1,0 +1,39 @@
+CypherOS XDA Thread Template
+
+[IMG]http://i.imgur.com/lZnntK3.png[/IMG]
+[CENTER]This is CypherOS. An extension to pure Android. CypherOS tries maintain the purity of Android while offering useful features for users. The goal is to give the highest level of performance whilst achieving Simplicity.[/CENTER]
+
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+Check out the latest changes to CypherOS
+[URL="https://github.com/CypherOS/Buildnotes/blob/master/Buildnotes.txt"]Build Notes[/URL]
+
+[B][U]Downloads[/U][/B]
+[URL="DOWNLOAD URL GOES HERE"]DEVICE NAME GOES HERE[/URL]
+
+[B]Become apart of the G+ community[/B] - [URL="https://plus.google.com/u/1/communities/111402352496339801246"]JOIN[/URL]
+
+[QUOTE][B][U]REMINDER[/U][/B]
+
+If you're having issues and want to submit a report (Logcat) please make sure you are reporting from the stock kernel, not a modified kernel. Modified kernels can break or fix, even improve things. It depends. I can't get a full clue of the issue when you're not running the original kernel.[/QUOTE]
+
+
+[B][U]Credits[/U][/B]
+CyanogenMod
+Slim Bean
+Carbon
+Liquid Smooth
+Omni
+Dirty Unicorns
+
+[B][U]Sources[/U][/B]
+[URL="KERNEL URL GOES HERE"]DEVICE NAME's KERNEL GOES HERE[/URL] Ex. Nexus 6's Kernel
+[URL="DEVICE TREE URL GOES HERE"]DEVICE NAME's DEVICE TREE GOES HERE[/URL] Ex. Nexus 6's Device Tree
