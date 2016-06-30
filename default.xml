@@ -239,7 +239,6 @@
   <project path="packages/apps/KeyChain" name="android_packages_apps_KeyChain" remote="cm" groups="pdk-fs"/>
   <project path="packages/services/LiveLockScreenService" name="android_packages_services_LiveLockScreenService" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
   <project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="cm" groups="pdk-fs"/>
-  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="cm" groups="pdk-fs"/>
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cm" groups="pdk-cw-fs,pdk-fs"/>
   <project path="packages/apps/Profiles" name="android_packages_apps_Profiles" remote="cm"/>
   <project path="packages/apps/Provision" name="android_packages_apps_Provision" remote="cm" groups="pdk-fs"/>
@@ -298,6 +297,7 @@
   <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="cypher" />
   <project path="packages/apps/DUI" name="packages_apps_DUI" remote="cypher" />
   <project path="packages/apps/COTA" name="packages_apps_COTA" remote="cypher" />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="cypher" groups="pdk-fs" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="cypher" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="cypher" />
   <project path="platform_manifest" name="platform_manifest" remote="cypher" />
