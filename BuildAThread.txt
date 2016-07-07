@@ -32,6 +32,23 @@ Note: Builds are updated weekly. Information pertaining to your device is displa
 
 If you're having issues and want to submit a report (Logcat) please make sure you are reporting from the stock kernel, not a modified kernel. Modified kernels can break or fix, even improve things. It depends. I can't get a full clue of the issue when you're not running the original kernel.[/QUOTE]
 
+[B][U]Features[/U][/B]
+Gesture Anywhere (MiGestures)
+Pie Controls
+Fling
+Pulse
+Smartbar
+Quick Pulldown (Left and Right)
+Advanced Doze
+Three finger screenshot
+Tap to wake
+Tap to sleep
+OTA Updates
+PA Battery Icon Style
+Battery percentage
+Slim sound settings
+Volume Steps
+and more..
 
 [B][U]Credits[/U][/B]
 CyanogenMod
