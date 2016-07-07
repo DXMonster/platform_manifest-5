@@ -1,6 +1,10 @@
 CypherOS XDA Thread Template
 
-[IMG]http://i.imgur.com/lZnntK3.png[/IMG]
+Thread name layout should be "[ROM][OFFICIAL]CypherOS (Insert new version number)[Device model]"
+
+If your builds are unofficial, please use [UNOFFICIAL] and not OFFICIAL in your thread name!
+
+[IMG]http://i.imgur.com/IrGMH3A.png[/IMG]
 [CENTER]This is CypherOS. An extension to pure Android. CypherOS tries maintain the purity of Android while offering useful features for users. The goal is to give the highest level of performance whilst achieving Simplicity.[/CENTER]
 
 [CODE]/*
@@ -14,10 +18,16 @@ CypherOS XDA Thread Template
  */[/CODE]
 
 Check out the latest changes to CypherOS
-[URL="https://github.com/CypherOS/Buildnotes/blob/master/Buildnotes.txt"]Build Notes[/URL]
+[URL="http://cypheros.co/changelog.php"]Build Notes[/URL]
 
-[B][U]Downloads[/U][/B]
-[URL="DOWNLOAD URL GOES HERE"]DEVICE NAME GOES HERE[/URL]
+[B][U]Get your builds from our website[/U][/B]
+[URL="http://get.cypheros.co/"]DEVICE NAME GOES HERE[/URL]
+
+Note: Builds are updated weekly. Information pertaining to your device is displayed
+      Accordingly. The current build is the latest for your device. If your device is
+	  scheduled to release on a certain day, but the new build isn't displaying, contact
+	  your device maintainer for more information. Please know builds are updated by 12pm
+	  EST.
 
 [B]Become apart of the G+ community[/B] - [URL="https://plus.google.com/u/1/communities/111402352496339801246"]JOIN[/URL]
 
