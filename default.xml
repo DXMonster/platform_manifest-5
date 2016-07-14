@@ -21,6 +21,10 @@
            fetch="https://github.com/CyanogenMod"
            review="review.cyanogenmod.org"
            revision="cm-13.0" />
+		   
+  <remote  name="sx"
+           fetch="https://github.com/sultanxda"
+           revision="cm-13.0-caf" />
 
   <remote  name="tm"
            fetch="https://github.com/TheMuppets"
